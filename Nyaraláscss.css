@@ -23,6 +23,7 @@ h3{
     font-size: 25px;
     margin-left: 40px;
     text-decoration: underline;
+    text-align: center;
 }
 
 h4{
@@ -36,6 +37,7 @@ h4{
 p{
     margin-left: 20px;
     font-size: 15px;
+    text-align: center;
 }
 
 div{
