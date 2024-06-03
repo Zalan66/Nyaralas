@@ -25,6 +25,14 @@ h3{
     text-decoration: underline;
 }
 
+h4{
+    font-size: 30px;
+    margin-left: 0px;
+    margin-right: 650px;
+    text-decoration: underline;
+    background-color: #fff;
+}
+
 p{
     margin-left: 20px;
     font-size: 15px;
@@ -39,7 +47,7 @@ div{
 .container{
     background-color: firebrick;
     color: white;
-    border-radius: 20px;
+    border-radius: 35px 35px 70px 20px;
     height: auto;
 
 }
@@ -47,7 +55,7 @@ div{
 .container1{
     background-color: white;
     color: firebrick;
-    border-radius: 20px;
+    border-radius: 35px 35px 70px 20px;
     height: auto;
 
 }
